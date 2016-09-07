@@ -1,0 +1,5 @@
+we learn about CLI,GIT AND SCRIPTING.
+First off all we login into badak server and 
+after that clone github repository to badak server
+Second we learn to make folder and file using command : mkdir, touch
+Last also learn to push and pull repository
