@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 nadia.nur63 StafCS 4096 Sep  7 15:15 .
+drwx--x--x  3 nadia.nur63 StafCS 4096 Sep  7 12:33 ..
+drwxr-xr-x  8 nadia.nur63 StafCS 4096 Sep  7 13:26 .git
+-rw-r--r--  1 nadia.nur63 StafCS    0 Sep  7 15:17 lab01.txt
+-rw-r--r--  1 nadia.nur63 StafCS    7 Sep  7 12:33 README.md
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 13:08 SandBox
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 13:23 week00
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week01
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week02
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week03
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week04
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week05
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week06
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week07
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:52 week08
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:53 week09
+drwxr-xr-x  2 nadia.nur63 StafCS 4096 Sep  7 12:53 week10
+/home/fasilkom/mahasiswa/n/nadia.nur63/os162/week01
